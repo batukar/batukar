@@ -4,7 +4,7 @@ import React from 'react';
 
 const SVG = ({children, className}) => {
     return (
-        <svg viewBox="0 0 24 24" className={className}>
+        <svg viewBox="0 0 24 24" className={`${className} fill-current `}>
             {children}
         </svg>
     )

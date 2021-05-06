@@ -9,6 +9,7 @@ module.exports = {
                     frame: "hsl(219, 24%, 30%)",
                     innerFrame: "hsl(218, 29%, 22%)",
                     content: "hsl(216, 30%, 18%)",
+                    black: "hsl(0, 0%, 0%)"
                 }
             }
         },

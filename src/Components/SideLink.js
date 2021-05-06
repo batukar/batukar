@@ -1,14 +1,13 @@
 import React from 'react';
 
-const SideLinks = ({name, Icon, activate, onMenuItemClick}) => {
-    const isActive = activate === name
+const SideLink = ({name, Icon, activate, onMenuItemClick}) => {
+    const isActive = activate === name;
     return (
         <li className='group' onClick={() => onMenuItemClick(name)}>
-            <a href={name.toLowerCase()} className='block text-xl mb-2 pointer-events-none'>
+            <a href={name.toLowerCase()} className='block text-xl mb-2 cursor-pointer pointer-events-none'>
                 <div className='inline-block'>
                     <div className={`flex items-center group-hover:bg-dark-content group-hover:text-dark-frame
-                         rounded-2xl pl-5 pr-8 py-3 
-                        ${isActive} ? 'text-dark-frame' : ''}`}>
+                         rounded-2xl pl-5 pr-8 py-3 ${isActive ? "text-dark-content" : ""}`}>
                         <Icon/>
                         <span className='ml-4 font-bold'>{name}</span>
                     </div>
@@ -18,4 +17,4 @@ const SideLinks = ({name, Icon, activate, onMenuItemClick}) => {
     );
 };
 
-export default SideLinks;
+export default SideLink;
