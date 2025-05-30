@@ -1,43 +1,29 @@
 # 👋 Merhaba, ben Batuhan Karadağ
 
-Araştırma Görevlisi | Doktora Adayı | Makine Öğrenmesi Uzmanı
+Ben **İskenderun Teknik Üniversitesi**'nde araştırma görevlisiyim ve **Gazi Üniversitesi**'nde doktora adayıyım. Akademik kariyerimde, özellikle **Makine Öğrenmesi** ve **Yapay Zeka** alanlarında çalışmalar yürütüyorum.
 
----
-
-🎓 **Akademik Geçmiş:**
-- 📍 Araştırma Görevlisi, İskenderun Teknik Üniversitesi
-- 🎓 Doktora Adayı, Gazi Üniversitesi
-
-📚 Verdiğim Dersler:
+## 🎓 Verdiğim Dersler
 - Algoritma ve Programlama
 - Nesne Tabanlı Programlama
 
-💻 **İlgilendiğim Programlama Dilleri ve Teknolojiler:**
-
+## 💻 Kullandığım Diller ve Teknolojiler
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javafx/javafx-original.svg" alt="JavaFX" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Native" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="Keras" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="Keras" width="40" height="40"/>
 </p>
 
-🌐 **Kişisel Web Sayfam:** [batukar.com](https://batukar.com)
+## 📫 Bana Ulaşın
+- 📧 batuhan.karadag@iste.edu.tr
+- 📧 bkaradag95@gmail.com
+- 🌐 [batukar.com](https://batukar.com)
 
-📧 **İletişim:**
-- Kurumsal: batuhan.karadag@iste.edu.tr
-- Kişisel: bkaradag95@gmail.com
+## 📊 GitHub İstatistikleri
 
----
-
-🔍 **İlgi Alanlarım:**
-- Makine Öğrenmesi
-- Açıklanabilir Yapay Zeka (XAI)
-- Gömülü Sistemler ve Algoritmalar
-- Mobil Uygulama Geliştirme
-
-🤝 İş birliklerine ve projelere açığım!
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=batukar&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=batukar&layout=compact&theme=radical)
