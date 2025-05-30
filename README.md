@@ -1,5 +1,7 @@
 # 👋 Merhaba, ben Batuhan Karadağ
 
+Araştırma Görevlisi | Doktora Adayı | Makine Öğrenmesi Uzmanı
+
 Ben **İskenderun Teknik Üniversitesi**'nde araştırma görevlisiyim ve **Gazi Üniversitesi**'nde doktora adayıyım. Akademik kariyerimde, özellikle **Makine Öğrenmesi** ve **Yapay Zeka** alanlarında çalışmalar yürütüyorum.
 
 ## 🎓 Verdiğim Dersler
@@ -11,6 +13,7 @@ Ben **İskenderun Teknik Üniversitesi**'nde araştırma görevlisiyim ve **Gazi
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" width="40" height="40"/>
