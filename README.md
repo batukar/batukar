@@ -29,13 +29,13 @@ Ben **İskenderun Teknik Üniversitesi**'nde araştırma görevlisiyim ve **Gazi
 
   <!-- Frameworkler / Kütüphaneler -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://seeklogo.com/images/E/expo-logo-01BB2BCFC3-seeklogo.com.png" alt="Expo" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Expo-000000?logo=expo&logoColor=white&style=for-the-badge" alt="Expo" height="40"/>
 
   <!-- Makine Öğrenmesi / Derin Öğrenme -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="Keras" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-Learn" width="40" height="40"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge" alt="Scikit-learn" height="40"/>
 
 </p>
 
