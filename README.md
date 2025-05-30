@@ -29,7 +29,7 @@ Ben **İskenderun Teknik Üniversitesi**'nde araştırma görevlisiyim ve **Gazi
 
   <!-- Frameworkler / Kütüphaneler -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Expo_Logo.svg" alt="Expo" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Expo_Icon.svg" alt="Expo" width="40" height="40"/>
 
   <!-- Makine Öğrenmesi / Derin Öğrenme -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
