@@ -10,21 +10,46 @@ Ben **İskenderun Teknik Üniversitesi**'nde araştırma görevlisiyim ve **Gazi
 
 ## 💻 Kullandığım Diller ve Teknolojiler
 <p align="left">
+
+  <!-- Programlama Dilleri -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+
+  <!-- Web Teknolojileri -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>
+
+  <!-- Veritabanları -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+
+  <!-- Frameworkler / Kütüphaneler -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" width="40" height="40"/>
+  <img src="https://seeklogo.com/images/E/expo-logo-01BB2BCFC3-seeklogo.com.png" alt="Expo" width="40" height="40"/>
+
+  <!-- Makine Öğrenmesi / Derin Öğrenme -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="Keras" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-Learn" width="40" height="40"/>
+
 </p>
 
-## 📫 Bana Ulaşın
-- 🌐 [batukar.com](https://batukar.com)
+## 🌍 Sosyal Medya ve İletişim
+- 🌐 [Kişisel Web Sitem](https://batukar.com)
+- ✉️ [Kurumsal eposta](mailto:batuhan.karadag@iste.edu.tr)
+- ✉️ [Kişisel eposta](mailto:bkaradag95@gmail.com)
+- 🐦 [Twitter](https://twitter.com/batukarr)
+- 💼 [LinkedIn](https://www.linkedin.com/in/batu-kar/)
+- 📸 [Instagram](https://www.instagram.com/batu.kar/)
 
 ## 📊 GitHub İstatistikleri
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=batukar&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=batukar&layout=compact&theme=radical)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=batukar&show_icons=true&theme=radical" alt="batukar's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=batukar&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
