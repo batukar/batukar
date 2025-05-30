@@ -22,8 +22,6 @@ Ben **İskenderun Teknik Üniversitesi**'nde araştırma görevlisiyim ve **Gazi
 </p>
 
 ## 📫 Bana Ulaşın
-- 📧 batuhan.karadag@iste.edu.tr
-- 📧 bkaradag95@gmail.com
 - 🌐 [batukar.com](https://batukar.com)
 
 ## 📊 GitHub İstatistikleri
