@@ -43,7 +43,7 @@ Ben **İskenderun Teknik Üniversitesi**'nde araştırma görevlisiyim ve **Gazi
 - 🌐 [Kişisel Web Sitem](https://batukar.com)
 - ✉️ [Kurumsal eposta](mailto:batuhan.karadag@iste.edu.tr)
 - ✉️ [Kişisel eposta](mailto:bkaradag95@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/batu-kar/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/batukar/)
 
 ## 📊 GitHub İstatistikleri
 
