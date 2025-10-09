@@ -7,6 +7,7 @@ Ben **İskenderun Teknik Üniversitesi**'nde araştırma görevlisiyim ve **Gazi
 ## 🎓 Verdiğim Dersler
 - Algoritma ve Programlama
 - Nesne Tabanlı Programlama
+- Veri Yapıları
 
 ## 💻 Kullandığım Diller ve Teknolojiler
 <p align="left">
