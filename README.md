@@ -1,54 +1,95 @@
-# 👋 Merhaba, ben Batuhan Karadağ
+<div align="center">
 
-Araştırma Görevlisi | Doktora Adayı | Makine Öğrenmesi Uzmanı
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2ea44f&center=true&vCenter=true&width=800&lines=👋+Hello,+I+am+Batuhan+Karada%C4%9F" alt="Typing SVG" />
+  </a>
 
-Ben **İskenderun Teknik Üniversitesi**'nde araştırma görevlisiyim ve **Gazi Üniversitesi**'nde doktora adayıyım. Akademik kariyerimde, özellikle **Makine Öğrenmesi** ve **Yapay Zeka** alanlarında çalışmalar yürütüyorum.
-
-## 🎓 Verdiğim Dersler
-- Algoritma ve Programlama
-- Nesne Tabanlı Programlama
-- Veri Yapıları
-
-## 💻 Kullandığım Diller ve Teknolojiler
-<p align="left">
-
-  <!-- Programlama Dilleri -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-
-  <!-- Web Teknolojileri -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>
-
-  <!-- Veritabanları -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-
-  <!-- Frameworkler / Kütüphaneler -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/batukar/batukar/main/expo-go-app.svg" alt="Expo Go" width="40" height="40"/>
-
-  <!-- Makine Öğrenmesi / Derin Öğrenme -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" alt="Keras" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
-
+  <p align="center" style="font-size: 15px;">
+I am a Research Assistant at Iskenderun Technical University and a PhD Candidate at Gazi University.<br> My academic research focuses primarily on Machine Learning and Artificial Intelligence.
 </p>
 
-## 🌍 Sosyal Medya ve İletişim
-- 🌐 [Kişisel Web Sitem](https://batukar.com)
-- ✉️ [Kurumsal eposta](mailto:batuhan.karadag@iste.edu.tr)
-- ✉️ [Kişisel eposta](mailto:bkaradag95@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/batukar/)
+  <p align="center">
+    <img src="https://img.shields.io/badge/Research_Assistant-İSTE-2ea44f?style=flat&logo=samsung-academic&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PhD_Candidate-Gazi_University-2ea44f?style=flat&logo=google-scholar&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Focus-Machine_Learning_%26_AI-2ea44f?style=flat&logo=openai&logoColor=white"/>
+  </p>
 
-## 📊 GitHub İstatistikleri
+  <p align="center">
+    <a href="https://batukar.com" target="_blank">
+      <img src="https://img.shields.io/badge/Website-batukar.com-1b1f23?style=flat&logo=google-chrome&logoColor=white"/>
+    </a>
+  </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=batukar&show_icons=true&theme=radical" alt="batukar's GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=batukar&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
+</div>
+
+<h2 align="center">👨‍🏫 Lecturer</h2>
+<div align="center" style="font-family: 'Fira Code', monospace;">
+  <code>📐 Algorithms & Programming</code> &nbsp;•&nbsp; <code>📦 Object-Oriented Programming (OOP)</code> &nbsp;•&nbsp; <code>📚 Data Structures</code>
+</div>
+
+<br/>
+
+<h2 align="center">🛠️ Technical Expertise & Tools</h2>
+
+<div align="center">
+<table style="border-collapse: collapse; border: none;">
+
+<tr style="border: none;">
+<td width="200" style="text-align: right; padding-right: 20px; border: none;"><b>AI & Machine Learning</b></td>
+<td style="text-align: left; border: none;">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,python" />
+  </a>
+</td>
+</tr>
+
+<tr style="border: none;">
+<td width="200" style="text-align: right; padding-right: 20px; border: none;"><b>Programming Languages</b></td>
+<td style="text-align: left; border: none;">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts" />
+  </a>
+</td>
+</tr>
+
+<tr style="border: none;">
+<td width="200" style="text-align: right; padding-right: 20px; border: none;"><b>Web & Frameworks</b></td>
+<td style="text-align: left; border: none;">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vue,nodejs" />
+  </a>
+</td>
+</tr>
+
+<tr style="border: none;">
+<td width="200" style="text-align: right; padding-right: 20px; border: none;"><b>System & Databases</b></td>
+<td style="text-align: left; border: none;">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,mysql,postgres,mongo" />
+  </a>
+</td>
+</tr>
+
+</table>
+</div>
+
+<br/>
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats-rickstaa.vercel.app/api?username=batukar&show_icons=true&theme=transparent&hide_border=true&title_color=2563EB&text_color=8b949e&icon_color=2563EB&locale=en" height="150" alt="stats" />
+  
+  <img src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=batukar&layout=compact&theme=transparent&hide_border=true&title_color=2563EB&text_color=8b949e&icon_color=2563EB&locale=en" height="150" alt="languages" />
+</div>
+
+<div align="center">
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=batukar&bg_color=00000000&color=2563EB&line=2563EB&point=FFFFFF&hide_border=true" height="250" alt="activity-graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=batukar&style=flat&color=blue&label=Profile+Views" alt="views"/>
+</div>
