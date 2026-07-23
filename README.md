@@ -1,21 +1,14 @@
-<table>
-<tr>
-<td width="2000">
-<h1>Batuhan Karadağ</h1>
-<p>
+<a href="mailto:YOUR_EMAIL"><img align="right" src="https://custom-icon-badges.demolab.com/badge/Email-0d1117?style=flat-square&logo=mail&logoColor=8b949e" alt="Email"></a>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img align="right" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=8b949e" alt="LinkedIn"></a>
+<a href="https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID"><img align="right" src="https://custom-icon-badges.demolab.com/badge/Google%20Scholar-0d1117?style=flat-square&logo=googlescholar&logoColor=8b949e" alt="Google Scholar"></a>
+<a href="https://batukar.com"><img align="right" src="https://custom-icon-badges.demolab.com/badge/batukar.com-0d1117?style=flat-square&logo=globe&logoColor=8b949e" alt="Website"></a>
+
+# Batuhan Karadağ
+
 Research Assistant · Iskenderun Technical University<br>
 PhD Candidate · Gazi University
-</p>
-<p><b>Machine Learning &nbsp;/&nbsp; Artificial Intelligence &nbsp;/&nbsp; Explainable AI</b></p>
-</td>
-<td align="right">
-<a href="https://batukar.com"><img src="https://custom-icon-badges.demolab.com/badge/batukar.com-0d1117?style=flat-square&logo=globe&logoColor=8b949e" alt="Website"></a><br>
-<a href="https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID"><img src="https://custom-icon-badges.demolab.com/badge/Google%20Scholar-0d1117?style=flat-square&logo=googlescholar&logoColor=8b949e" alt="Google Scholar"></a><br>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=8b949e" alt="LinkedIn"></a><br>
-<a href="mailto:YOUR_EMAIL"><img src="https://custom-icon-badges.demolab.com/badge/Email-0d1117?style=flat-square&logo=mail&logoColor=8b949e" alt="Email"></a>
-</td>
-</tr>
-</table>
+
+**Machine Learning &nbsp;/&nbsp; Artificial Intelligence &nbsp;/&nbsp; Explainable AI**
 
 ## Teaching
 
