@@ -1,14 +1,21 @@
-# Batuhan Karadağ
-
+<table width="100%">
+<tr>
+<td width="65%">
+<h1>Batuhan Karadağ</h1>
+<p>
 Research Assistant · Iskenderun Technical University<br>
 PhD Candidate · Gazi University
-
-**Machine Learning &nbsp;/&nbsp; Artificial Intelligence &nbsp;/&nbsp; Explainable AI**
-
-[![Website](https://custom-icon-badges.demolab.com/badge/batukar.com-0d1117?style=flat-square&logo=globe&logoColor=8b949e)](https://batukar.com)
-[![Google Scholar](https://custom-icon-badges.demolab.com/badge/Google%20Scholar-0d1117?style=flat-square&logo=googlescholar&logoColor=8b949e)](https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=8b949e)](https://www.linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://custom-icon-badges.demolab.com/badge/Email-0d1117?style=flat-square&logo=mail&logoColor=8b949e)](mailto:YOUR_EMAIL)
+</p>
+<p><b>Machine Learning &nbsp;/&nbsp; Artificial Intelligence &nbsp;/&nbsp; Explainable AI</b></p>
+</td>
+<td align="right">
+<a href="https://batukar.com"><img src="https://custom-icon-badges.demolab.com/badge/batukar.com-0d1117?style=flat-square&logo=globe&logoColor=8b949e" alt="Website"></a><br>
+<a href="https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID"><img src="https://custom-icon-badges.demolab.com/badge/Google%20Scholar-0d1117?style=flat-square&logo=googlescholar&logoColor=8b949e" alt="Google Scholar"></a><br>
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=8b949e" alt="LinkedIn"></a><br>
+<a href="mailto:YOUR_EMAIL"><img src="https://custom-icon-badges.demolab.com/badge/Email-0d1117?style=flat-square&logo=mail&logoColor=8b949e" alt="Email"></a>
+</td>
+</tr>
+</table>
 
 ## Teaching
 
@@ -20,14 +27,24 @@ PhD Candidate · Gazi University
 ## Technical Expertise & Tools
 
 <div align="center">
-
-| | |
-|---|---|
-| **AI & Machine Learning** | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,py&theme=dark" alt="AI & ML" height="40"> |
-| **Programming Languages** | <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts&theme=dark" alt="Languages" height="40"> |
-| **Web & Frameworks** | <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vue,nodejs&theme=dark" alt="Web" height="40"> |
-| **System & Databases** | <img src="https://skillicons.dev/icons?i=linux,mysql,postgres,mongodb&theme=dark" alt="Systems & DB" height="40"> |
-
+<table>
+<tr>
+<td><b>AI &amp; Machine Learning</b></td>
+<td><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,py&theme=dark" alt="AI & ML" height="40"></td>
+</tr>
+<tr>
+<td><b>Programming Languages</b></td>
+<td><img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts&theme=dark" alt="Languages" height="40"></td>
+</tr>
+<tr>
+<td><b>Web &amp; Frameworks</b></td>
+<td><img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vue,nodejs&theme=dark" alt="Web" height="40"></td>
+</tr>
+<tr>
+<td><b>System &amp; Databases</b></td>
+<td><img src="https://skillicons.dev/icons?i=linux,mysql,postgres,mongodb&theme=dark" alt="Systems & DB" height="40"></td>
+</tr>
+</table>
 </div>
 
 ## GitHub Stats
