@@ -1,9 +1,4 @@
-<a href="mailto:YOUR_EMAIL"><img align="right" src="https://custom-icon-badges.demolab.com/badge/Email-0d1117?style=flat-square&logo=mail&logoColor=8b949e" alt="Email"></a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img align="right" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=8b949e" alt="LinkedIn"></a>
-<a href="https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID"><img align="right" src="https://custom-icon-badges.demolab.com/badge/Google%20Scholar-0d1117?style=flat-square&logo=googlescholar&logoColor=8b949e" alt="Google Scholar"></a>
-<a href="https://batukar.com"><img align="right" src="https://custom-icon-badges.demolab.com/badge/batukar.com-0d1117?style=flat-square&logo=globe&logoColor=8b949e" alt="Website"></a>
-
-# Batuhan Karadağ
+# Batuhan Karadağ <a href="mailto:YOUR_EMAIL"><img align="right" src="https://custom-icon-badges.demolab.com/badge/Email-0d1117?style=flat-square&logo=mail&logoColor=8b949e" alt="Email"></a> <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img align="right" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=8b949e" alt="LinkedIn"></a> <a href="https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID"><img align="right" src="https://custom-icon-badges.demolab.com/badge/Google%20Scholar-0d1117?style=flat-square&logo=googlescholar&logoColor=8b949e" alt="Google Scholar"></a> <a href="https://batukar.com"><img align="right" src="https://custom-icon-badges.demolab.com/badge/batukar.com-0d1117?style=flat-square&logo=globe&logoColor=8b949e" alt="Website"></a>
 
 Research Assistant · Iskenderun Technical University<br>
 PhD Candidate · Gazi University
@@ -12,10 +7,10 @@ PhD Candidate · Gazi University
 
 ## Teaching
 
-▸ [![Algorithms & Programming](https://custom-icon-badges.demolab.com/badge/Algorithms_&_Programming-161b22?style=flat-square&logo=code&logoColor=58a6ff)](https://github.com/batukar/algorithms-and-programming) — lecture materials & lab codes<br>
-▸ [![Object-Oriented Programming](https://custom-icon-badges.demolab.com/badge/Object--Oriented_Programming-161b22?style=flat-square&logo=package&logoColor=58a6ff)](https://github.com/batukar/NTP_Uygulamalari) — lecture materials & lab codes<br>
-▸ [![Data Structures](https://custom-icon-badges.demolab.com/badge/Data_Structures-161b22?style=flat-square&logo=git-branch&logoColor=58a6ff)](https://github.com/batukar/data-structures) — lecture materials & lab codes<br>
-▸ [![Microprocessors](https://custom-icon-badges.demolab.com/badge/Microprocessors-161b22?style=flat-square&logo=cpu&logoColor=58a6ff)](https://github.com/batukar/microprocessor) — lecture materials & lab codes
+[![Algorithms & Programming](https://custom-icon-badges.demolab.com/badge/Algorithms_%26_Programming-lecture_materials_%26_lab_codes-0d1117?style=flat-square&logo=code&logoColor=58a6ff&labelColor=161b22)](https://github.com/batukar/algorithms-and-programming)<br>
+[![Object-Oriented Programming](https://custom-icon-badges.demolab.com/badge/Object--Oriented_Programming-lecture_materials_%26_lab_codes-0d1117?style=flat-square&logo=package&logoColor=58a6ff&labelColor=161b22)](https://github.com/batukar/NTP_Uygulamalari)<br>
+[![Data Structures](https://custom-icon-badges.demolab.com/badge/Data_Structures-lecture_materials_%26_lab_codes-0d1117?style=flat-square&logo=git-branch&logoColor=58a6ff&labelColor=161b22)](https://github.com/batukar/data-structures)<br>
+[![Microprocessors](https://custom-icon-badges.demolab.com/badge/Microprocessors-lecture_materials_%26_lab_codes-0d1117?style=flat-square&logo=cpu&logoColor=58a6ff&labelColor=161b22)](https://github.com/batukar/microprocessor)
 
 ## Technical Expertise & Tools
 
