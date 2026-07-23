@@ -1,6 +1,6 @@
-<table width="100%">
+<table>
 <tr>
-<td width="65%">
+<td width="2000">
 <h1>Batuhan Karadağ</h1>
 <p>
 Research Assistant · Iskenderun Technical University<br>
