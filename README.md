@@ -43,7 +43,7 @@ PhD Candidate · Gazi University
 
 <img src="https://streak-stats.demolab.com?user=batukar&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&currStreakNum=e6edf3&sideNums=e6edf3&sideLabels=8b949e&dates=484f58&stroke=21262d" alt="Streak Stats">
 
-<img src="https://ghchart.rshah.org/58a6ff/batukar" alt="Contribution Graph" width="100%">
+<img src="activity-graph.svg" alt="Contribution Graph" width="100%">
 
 <img src="https://komarev.com/ghpvc/?username=batukar&style=flat-square&color=30363d&label=profile%20views" alt="Profile Views">
 
