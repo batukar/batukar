@@ -4,57 +4,57 @@
 <line x1="48" y1="220.0" x2="876" y2="220.0" stroke="#21262d" stroke-width="1"/>
 <text x="40" y="224.0" fill="#8b949e" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="11" text-anchor="end">0</text>
 <line x1="48" y1="184.0" x2="876" y2="184.0" stroke="#21262d" stroke-width="1"/>
-<text x="40" y="188.0" fill="#8b949e" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="11" text-anchor="end">10</text>
+<text x="40" y="188.0" fill="#8b949e" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="11" text-anchor="end">6</text>
 <line x1="48" y1="148.0" x2="876" y2="148.0" stroke="#21262d" stroke-width="1"/>
-<text x="40" y="152.0" fill="#8b949e" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="11" text-anchor="end">20</text>
+<text x="40" y="152.0" fill="#8b949e" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="11" text-anchor="end">12</text>
 <line x1="48" y1="112.0" x2="876" y2="112.0" stroke="#21262d" stroke-width="1"/>
-<text x="40" y="116.0" fill="#8b949e" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="11" text-anchor="end">30</text>
+<text x="40" y="116.0" fill="#8b949e" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="11" text-anchor="end">18</text>
 <line x1="48" y1="76.0" x2="876" y2="76.0" stroke="#21262d" stroke-width="1"/>
-<text x="40" y="80.0" fill="#8b949e" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="11" text-anchor="end">40</text>
+<text x="40" y="80.0" fill="#8b949e" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="11" text-anchor="end">24</text>
 <line x1="48" y1="40.0" x2="876" y2="40.0" stroke="#21262d" stroke-width="1"/>
-<text x="40" y="44.0" fill="#8b949e" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="11" text-anchor="end">50</text>
-<polygon points="48.0,220.0 48.0,47.2 75.6,140.8 103.2,158.8 130.8,187.6 158.4,187.6 186.0,151.6 213.6,144.4 241.2,212.8 268.8,205.6 296.4,205.6 324.0,202.0 351.6,216.4 379.2,216.4 406.8,205.6 434.4,126.4 462.0,216.4 489.6,194.8 517.2,162.4 544.8,205.6 572.4,209.2 600.0,209.2 627.6,184.0 655.2,202.0 682.8,212.8 710.4,216.4 738.0,216.4 765.6,216.4 793.2,216.4 820.8,216.4 848.4,212.8 876.0,212.8 876.0,220.0" fill="#1f6feb" fill-opacity="0.25"/>
-<polyline points="48.0,47.2 75.6,140.8 103.2,158.8 130.8,187.6 158.4,187.6 186.0,151.6 213.6,144.4 241.2,212.8 268.8,205.6 296.4,205.6 324.0,202.0 351.6,216.4 379.2,216.4 406.8,205.6 434.4,126.4 462.0,216.4 489.6,194.8 517.2,162.4 544.8,205.6 572.4,209.2 600.0,209.2 627.6,184.0 655.2,202.0 682.8,212.8 710.4,216.4 738.0,216.4 765.6,216.4 793.2,216.4 820.8,216.4 848.4,212.8 876.0,212.8" fill="none" stroke="#58a6ff" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
-<circle cx="48.0" cy="47.2" r="3" fill="#e6edf3"/>
-<circle cx="75.6" cy="140.8" r="3" fill="#e6edf3"/>
-<circle cx="103.2" cy="158.8" r="3" fill="#e6edf3"/>
-<circle cx="130.8" cy="187.6" r="3" fill="#e6edf3"/>
-<circle cx="158.4" cy="187.6" r="3" fill="#e6edf3"/>
-<circle cx="186.0" cy="151.6" r="3" fill="#e6edf3"/>
-<circle cx="213.6" cy="144.4" r="3" fill="#e6edf3"/>
-<circle cx="241.2" cy="212.8" r="3" fill="#e6edf3"/>
-<circle cx="268.8" cy="205.6" r="3" fill="#e6edf3"/>
-<circle cx="296.4" cy="205.6" r="3" fill="#e6edf3"/>
-<circle cx="324.0" cy="202.0" r="3" fill="#e6edf3"/>
-<circle cx="351.6" cy="216.4" r="3" fill="#e6edf3"/>
-<circle cx="379.2" cy="216.4" r="3" fill="#e6edf3"/>
-<circle cx="406.8" cy="205.6" r="3" fill="#e6edf3"/>
-<circle cx="434.4" cy="126.4" r="3" fill="#e6edf3"/>
-<circle cx="462.0" cy="216.4" r="3" fill="#e6edf3"/>
-<circle cx="489.6" cy="194.8" r="3" fill="#e6edf3"/>
-<circle cx="517.2" cy="162.4" r="3" fill="#e6edf3"/>
-<circle cx="544.8" cy="205.6" r="3" fill="#e6edf3"/>
-<circle cx="572.4" cy="209.2" r="3" fill="#e6edf3"/>
-<circle cx="600.0" cy="209.2" r="3" fill="#e6edf3"/>
-<circle cx="627.6" cy="184.0" r="3" fill="#e6edf3"/>
-<circle cx="655.2" cy="202.0" r="3" fill="#e6edf3"/>
-<circle cx="682.8" cy="212.8" r="3" fill="#e6edf3"/>
-<circle cx="710.4" cy="216.4" r="3" fill="#e6edf3"/>
-<circle cx="738.0" cy="216.4" r="3" fill="#e6edf3"/>
-<circle cx="765.6" cy="216.4" r="3" fill="#e6edf3"/>
-<circle cx="793.2" cy="216.4" r="3" fill="#e6edf3"/>
-<circle cx="820.8" cy="216.4" r="3" fill="#e6edf3"/>
-<circle cx="848.4" cy="212.8" r="3" fill="#e6edf3"/>
-<circle cx="876.0" cy="212.8" r="3" fill="#e6edf3"/>
-<text x="48.0" y="246" fill="#8b949e" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="11" text-anchor="middle">27 Sep</text>
-<text x="130.8" y="246" fill="#8b949e" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="11" text-anchor="middle">30 Sep</text>
-<text x="213.6" y="246" fill="#8b949e" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="11" text-anchor="middle">03 Oct</text>
-<text x="296.4" y="246" fill="#8b949e" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="11" text-anchor="middle">06 Oct</text>
-<text x="379.2" y="246" fill="#8b949e" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="11" text-anchor="middle">09 Oct</text>
-<text x="462.0" y="246" fill="#8b949e" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="11" text-anchor="middle">12 Oct</text>
-<text x="544.8" y="246" fill="#8b949e" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="11" text-anchor="middle">15 Oct</text>
-<text x="627.6" y="246" fill="#8b949e" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="11" text-anchor="middle">18 Oct</text>
-<text x="710.4" y="246" fill="#8b949e" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="11" text-anchor="middle">21 Oct</text>
-<text x="793.2" y="246" fill="#8b949e" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="11" text-anchor="middle">24 Oct</text>
-<text x="876.0" y="246" fill="#8b949e" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="11" text-anchor="middle">27 Oct</text>
+<text x="40" y="44.0" fill="#8b949e" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="11" text-anchor="end">30</text>
+<polygon points="48.0,220.0 48.0,88.0 75.6,118.0 103.2,166.0 130.8,166.0 158.4,106.0 186.0,94.0 213.6,208.0 241.2,196.0 268.8,196.0 296.4,190.0 324.0,214.0 351.6,214.0 379.2,196.0 406.8,64.0 434.4,214.0 462.0,178.0 489.6,124.0 517.2,196.0 544.8,202.0 572.4,202.0 600.0,160.0 627.6,190.0 655.2,208.0 682.8,214.0 710.4,214.0 738.0,214.0 765.6,214.0 793.2,214.0 820.8,208.0 848.4,202.0 876.0,214.0 876.0,220.0" fill="#1f6feb" fill-opacity="0.25"/>
+<polyline points="48.0,88.0 75.6,118.0 103.2,166.0 130.8,166.0 158.4,106.0 186.0,94.0 213.6,208.0 241.2,196.0 268.8,196.0 296.4,190.0 324.0,214.0 351.6,214.0 379.2,196.0 406.8,64.0 434.4,214.0 462.0,178.0 489.6,124.0 517.2,196.0 544.8,202.0 572.4,202.0 600.0,160.0 627.6,190.0 655.2,208.0 682.8,214.0 710.4,214.0 738.0,214.0 765.6,214.0 793.2,214.0 820.8,208.0 848.4,202.0 876.0,214.0" fill="none" stroke="#58a6ff" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="48.0" cy="88.0" r="3" fill="#e6edf3"/>
+<circle cx="75.6" cy="118.0" r="3" fill="#e6edf3"/>
+<circle cx="103.2" cy="166.0" r="3" fill="#e6edf3"/>
+<circle cx="130.8" cy="166.0" r="3" fill="#e6edf3"/>
+<circle cx="158.4" cy="106.0" r="3" fill="#e6edf3"/>
+<circle cx="186.0" cy="94.0" r="3" fill="#e6edf3"/>
+<circle cx="213.6" cy="208.0" r="3" fill="#e6edf3"/>
+<circle cx="241.2" cy="196.0" r="3" fill="#e6edf3"/>
+<circle cx="268.8" cy="196.0" r="3" fill="#e6edf3"/>
+<circle cx="296.4" cy="190.0" r="3" fill="#e6edf3"/>
+<circle cx="324.0" cy="214.0" r="3" fill="#e6edf3"/>
+<circle cx="351.6" cy="214.0" r="3" fill="#e6edf3"/>
+<circle cx="379.2" cy="196.0" r="3" fill="#e6edf3"/>
+<circle cx="406.8" cy="64.0" r="3" fill="#e6edf3"/>
+<circle cx="434.4" cy="214.0" r="3" fill="#e6edf3"/>
+<circle cx="462.0" cy="178.0" r="3" fill="#e6edf3"/>
+<circle cx="489.6" cy="124.0" r="3" fill="#e6edf3"/>
+<circle cx="517.2" cy="196.0" r="3" fill="#e6edf3"/>
+<circle cx="544.8" cy="202.0" r="3" fill="#e6edf3"/>
+<circle cx="572.4" cy="202.0" r="3" fill="#e6edf3"/>
+<circle cx="600.0" cy="160.0" r="3" fill="#e6edf3"/>
+<circle cx="627.6" cy="190.0" r="3" fill="#e6edf3"/>
+<circle cx="655.2" cy="208.0" r="3" fill="#e6edf3"/>
+<circle cx="682.8" cy="214.0" r="3" fill="#e6edf3"/>
+<circle cx="710.4" cy="214.0" r="3" fill="#e6edf3"/>
+<circle cx="738.0" cy="214.0" r="3" fill="#e6edf3"/>
+<circle cx="765.6" cy="214.0" r="3" fill="#e6edf3"/>
+<circle cx="793.2" cy="214.0" r="3" fill="#e6edf3"/>
+<circle cx="820.8" cy="208.0" r="3" fill="#e6edf3"/>
+<circle cx="848.4" cy="202.0" r="3" fill="#e6edf3"/>
+<circle cx="876.0" cy="214.0" r="3" fill="#e6edf3"/>
+<text x="48.0" y="246" fill="#8b949e" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="11" text-anchor="middle">28 Sep</text>
+<text x="130.8" y="246" fill="#8b949e" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="11" text-anchor="middle">01 Oct</text>
+<text x="213.6" y="246" fill="#8b949e" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="11" text-anchor="middle">04 Oct</text>
+<text x="296.4" y="246" fill="#8b949e" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="11" text-anchor="middle">07 Oct</text>
+<text x="379.2" y="246" fill="#8b949e" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="11" text-anchor="middle">10 Oct</text>
+<text x="462.0" y="246" fill="#8b949e" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="11" text-anchor="middle">13 Oct</text>
+<text x="544.8" y="246" fill="#8b949e" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="11" text-anchor="middle">16 Oct</text>
+<text x="627.6" y="246" fill="#8b949e" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="11" text-anchor="middle">19 Oct</text>
+<text x="710.4" y="246" fill="#8b949e" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="11" text-anchor="middle">22 Oct</text>
+<text x="793.2" y="246" fill="#8b949e" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="11" text-anchor="middle">25 Oct</text>
+<text x="876.0" y="246" fill="#8b949e" font-family="Segoe UI, Ubuntu, Helvetica, Arial, sans-serif" font-size="11" text-anchor="middle">28 Oct</text>
 </svg>
